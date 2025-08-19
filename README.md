@@ -33,7 +33,3 @@ With every second you survive, your *score increases* — but one mistake, and i
 - *C#* – Core Gameplay Logic  
 - *GitHub Pages* – Hosting & Deployment  
 
----
-
-## 📸 Screenshots  
-(Add your game screenshots here after export)
